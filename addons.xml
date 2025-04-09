@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <addons>
-    <addon id="skin.embuary2k.omega" version="21.0.1" name="Embuary 2K (Omega)"
+    <addon id="skin.embuary2k.omega-21.0.1" version="21.0.1" name="Embuary 2K (Omega)"
         provider-name="sualfred, jamal2367, Teddyknuddel">
         <requires>
             <import addon="script.embuary.helper" version="1.3.6" />
@@ -54,7 +54,7 @@
             </assets>
         </extension>
     </addon>
-    <addon id="skin.embuary4k.omega" version="21.0.1" name="Embuary 4K (Omega)"
+    <addon id="skin.embuary4k.omega-21.0.1" version="21.0.1" name="Embuary 4K (Omega)"
         provider-name="sualfred, jamal2367, Teddyknuddel">
         <requires>
             <import addon="script.embuary.helper" version="1.3.6" />
@@ -107,18 +107,15 @@
             </assets>
         </extension>
     </addon>
-    <addon id="repository.embuary" name="Embuary Skin Sammlung" version="0.1.0" provider-name="Team Embuary">
+    <addon id="repository.embuary-0.2.0" name="Embuary Skin Sammlung" version="0.2.0" provider-name="Team Embuary">
         <requires>
             <import addon="xbmc.addon" version="12.0.0" />
         </requires>
         <extension point="xbmc.addon.repository" name="Embuary Skin Sammlung">
             <dir minversion="20.999.0">
-                <info compressed="false">
-                    https://raw.githubusercontent.com/Teddyknuddel/repository.embuary/master/addons.xml</info>
-                <checksum>
-                    https://raw.githubusercontent.com/Teddyknuddel/repository.embuary/addons.xml.md5</checksum>
-                <datadir zip="true">
-                    https://raw.githubusercontent.com/Teddyknuddel/repository.embuary/master/</datadir>
+                <info compressed="false">https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/refs/heads/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/refs/heads/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/refs/heads/master/</datadir>
             </dir>
         </extension>
         <extension point="xbmc.addon.metadata">

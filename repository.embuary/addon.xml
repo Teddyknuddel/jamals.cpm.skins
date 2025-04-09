@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.embuary" name="Embuary Skins (Omega)" version="0.1.0" provider-name="Embuary Team">
+<addon id="repository.embuary-0.2.0" name="Embuary Skins (Omega)" version="0.2.0" provider-name="Embuary Team">
     <extension point="xbmc.addon.repository" name="Embuary Skins Repository">
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/master/repository.embuary/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/master/repository.embuary/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Teddyknuddel/embuary/master/repo/zips/</datadir>
-        </dir>
+        dir minversion="20.999.0">
+                <info compressed="false">https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/refs/heads/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/refs/heads/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/refs/heads/master/</datadir>
+            </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Embuary Skin Repository</summary>
