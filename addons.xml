@@ -107,7 +107,7 @@
             </assets>
         </extension>
     </addon>
-    <addon id="repository.embuary" name="Embuary Skin Sammlung" version="0.2.0" provider-name="Team Embuary">
+    <addon id="repository.embuary" name="Embuary Skins (Omega)" version="0.2.0" provider-name="Team Embuary">
         <requires>
             <import addon="xbmc.addon" version="12.0.0" />
         </requires>
