@@ -70,10 +70,10 @@
             <import addon="xbmc.addon" version="12.0.0" />
         </requires>
         <extension <extension point="xbmc.addon.repository" name="Embuary Skins Repository">
-         <dir minversion="20.999.0">
-                <info compressed="false">https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/master/addons.xml</info>
-                <checksum>https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/master/addons.xml.md5</checksum>
-                <datadir zip="true">https://github.com/Teddyknuddel/embuary.omega/archive/refs/heads/master.zip</datadir>
+          <dir minversion="20.999.0">
+                <info compressed="false">https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/refs/heads/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/refs/heads/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Teddyknuddel/embuary.omega/refs/heads/master/</datadir>
             </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
