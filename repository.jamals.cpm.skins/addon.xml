@@ -8,7 +8,7 @@
 				</dir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
-			<summary>Jamals CPM Skins</summary>
+			<summary>Jamals CPM Skins Repository</summary>
 		  <description lang="en_GB">Several skins for CPM builds</description>
 			<description lang="de_DE">Mehrere Skins für CPM-Builds</description>
 			<disclaimer lang="en_GB">With the installation of the skins you agree that you don't use it in combination with blacklisted and illegal Kodi add-ons. We are not associated with any available build and we won't give any support to blacklisted, banned or illegal third party addons.</disclaimer>
