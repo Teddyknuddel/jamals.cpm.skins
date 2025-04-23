@@ -9,8 +9,8 @@
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary>Jamals CPM Skins</summary>
-		   <description lang="en_GB">Features:<br>Buttons in Video OSD for PlayerProcessInfo and VS10 added.<br>Completely custom design for the PlayerProcessInfo with lots of technical information.<br>Display codec logos at video start, Video OSD and PlayerProcessInfo. (can be set in the settings: off, top left, top center or top right)<br>Self-designed codec logos. (professionally created with Inkscape in SVG format)<br>All Dolby and DTS lettering in the logos has been modernized.<br>All skins use the same look for the PlayerProcessInfo and codec logos.</description>
-			<description lang="de_DE">eatures:<br>Schaltflächen im Video-OSD für PlayerProcessInfo und VS10 hinzugefügt.<br>Komplett individuelles Design für PlayerProcessInfo mit vielen technischen Informationen.<br>Codec-Logos beim Videostart, Video-OSD und PlayerProcessInfo anzeigen. (In den Einstellungen einstellbar: aus, oben links, oben mittig oder oben rechts)<br>Selbst gestaltete Codec-Logos. (professionell erstellt mit Inkscape im SVG-Format)<br>Alle Dolby- und DTS-Schriftzüge in den Logos wurden modernisiert.<br>Alle Skins verwenden das gleiche Aussehen für die PlayerProcessInfo- und Codec-Logos.</description>
+		  <description lang="en_GB">Several skins for CPM builds</description>
+			<description lang="de_DE">Mehrere Skins für CPM-Builds</description>
 			<disclaimer lang="en_GB">With the installation of the skins you agree that you don't use it in combination with blacklisted and illegal Kodi add-ons. We are not associated with any available build and we won't give any support to blacklisted, banned or illegal third party addons.</disclaimer>
 			<disclaimer lang="de_DE">Mit der Installation der Skins erklärst du dich damit einverstanden keine verbotenen und illegalen Addons von Kodi damit zu benutzen. Wir stehen in keinerlei Verbindung zu verfübaren Builds und geben keinen Support für diese oder andere illegalen Drittanbieter-Addons.</disclaimer>
 			<platform>all</platform>
