@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.jamals.cpm.skins" name="Jamals CPM Skins" version="0.1.1" provider-name="Jamal2367">
+<addon id="repository.jamals.cpm.skins" name="Jamals CPM Skins" version="0.1.2" provider-name="Jamal2367">
 		<extension point="xbmc.addon.repository" name="Jamals CPM Skins Repository">
 			  <dir minversion="20.999.0">
 					<info compressed="false">https://raw.githubusercontent.com/Teddyknuddel/jamals.cpm.skins/master/addons.xml</info>
