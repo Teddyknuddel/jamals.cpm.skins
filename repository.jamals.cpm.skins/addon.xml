@@ -9,9 +9,10 @@
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary>Jamals CPM Skins Repository</summary>
-		  <description lang="en_GB">Several skins for CPM builds. CPM modifications by jamal2367 - Summary and provision by Teddyknuddel</description>
+		   <description lang="en_GB">Several skins for CPM builds. CPM modifications by jamal2367 - Summary and provision by Teddyknuddel</description>
 			<description lang="de_DE">Mehrere Skins für CPM-Builds. CPM-Modifikationen von jamal2367 - Zusammenfassung und Bereitstellung durch Teddyknuddel</description>
-			<disclaimer lang="de_DE">Mit der Installation der Skins erklärst du dich damit einverstanden keine verbotenen und illegalen Addons von Kodi damit zu benutzen. Wir stehen in keinerlei Verbindung zu verfübaren Builds und geben keinen Support für diese oder andere illegalen Drittanbieter-Addons.</disclaimer>
+			<disclaimer lang="en_GB">With the installation of the skins you agree that you don't use it in combination with blacklisted and illegal Kodi add-ons. We are not associated with any available build and I won't give any support to blacklisted, banned or illegal third party addons.</disclaimer>
+			<disclaimer lang="de_DE">Mit der Installation der Skins erklärst du dich damit einverstanden keine verbotenen und illegalen Addons von Kodi damit zu benutzen. Wir stehen in keinerlei Verbindung zu verfübaren Builds und gebe keinen Support für diese oder andere illegalen Drittanbieter-Addons.</disclaimer>
 			<platform>all</platform>
 			<assets>
 			   <icon>resources/icon.png</icon>
